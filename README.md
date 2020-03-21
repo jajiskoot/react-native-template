@@ -1,2 +1,2 @@
-# react-native-template
+# template-react-native
 Template Repo for React Native
