@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
     }
 });
 
-function App() {
+export default function App() {
     return (
         <>
             <StatusBar barStyle="dark-content" />
@@ -99,5 +99,3 @@ function App() {
         </>
     );
 }
-
-export default App;

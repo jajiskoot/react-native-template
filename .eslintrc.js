@@ -22,6 +22,7 @@ module.exports = {
         "trailingComma": "none"
       }
     ],
+    "react/jsx-filename-extension": [2, { "extensions": [".js"] }],
     "react/jsx-indent": 0,
     "react/jsx-indent-props": [2, 4]
   }
