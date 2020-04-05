@@ -9,8 +9,8 @@ Steps to rename project and get up and running:
 
 3. rename project in package-lock.json
 
-4. cd ios && pod install
+4. npm install
 
-5. cd .. && npm install
+5. cd ios && pod install
 
 Then just run the project :)
